@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kubernetes.docker.internal/posts/my-first-post/</loc>
+    <lastmod>2025-03-30T18:58:42+02:00</lastmod>
+  </url><url>
+    <loc>https://kubernetes.docker.internal/</loc>
+    <lastmod>2025-03-30T18:58:42+02:00</lastmod>
+  </url><url>
+    <loc>https://kubernetes.docker.internal/posts/</loc>
+    <lastmod>2025-03-30T18:58:42+02:00</lastmod>
+  </url><url>
+    <loc>https://kubernetes.docker.internal/categories/</loc>
+  </url><url>
+    <loc>https://kubernetes.docker.internal/tags/</loc>
+  </url>
+</urlset>
